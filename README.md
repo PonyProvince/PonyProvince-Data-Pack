@@ -22,6 +22,7 @@ Convert Sandstone back into 4 sand.
 
 New crafting recipe from 1.14 to make Smooth Stone.
 ![Smooth Stone](https://i.imgur.com/MYojb7I.png)
+
 Elytra can now be crafted.
 ![Elytra](https://i.imgur.com/axJKFQr.png)
 
