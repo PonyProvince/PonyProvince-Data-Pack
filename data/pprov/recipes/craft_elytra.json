@@ -1,0 +1,29 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#E#",
+        "PDP",
+        "PLP"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:string"
+        },
+        "E": {
+            "item": "minecraft:experience_bottle"
+        },
+        "P": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "D": {
+            "item": "minecraft:diamond_chestplate"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "minecraft:elytra",
+        "count": 1
+    }
+}
